@@ -5,15 +5,15 @@ Welcome to my GitHub profile! I'm passionate about coding, and I love solving co
 ## 🧑‍💻 About Me
 - 🔭 Currently working on various Python projects
 - 🌱 Learning more about data science and machine learning
-- 💬 Ask me about Python, Django, and web development
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 💬 Ask me about Python, 易语言 and web development
+- 📫 How to reach me: [ms0403wss2024@outlook.com](mailto:email@example.com)
 - ⚡ Fun fact: I enjoy hiking and exploring new places
 
 ## 🛠️ Technologies & Tools
-- Programming Languages: Python, JavaScript
+- Programming Languages: Python 易语言
 - Frameworks: Django, Flask, React
-- Tools: Git, Docker, VSCode
-- Databases: PostgreSQL, MySQL, SQLite
+- Tools: Git, VSCode, 易语言
+- Databases: MySQL, MsSQL
 
 ## 🔗 Connect with Me
 - LinkedIn: [linkedin.com/in/wjl-py](https://www.linkedin.com/in/wjl-py)
